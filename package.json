@@ -1,0 +1,12 @@
+{
+  "name": "grunt-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-config": "*",
+    "time-grunt": "^1.0.0"
+  },
+  "dependencies": {
+    "time-grunt": "*"
+  }
+}
